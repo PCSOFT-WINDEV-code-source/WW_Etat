@@ -1,0 +1,275 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Etat
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAACh7TnojDzKxNKmUDBHD716QfEi9zxDs+hg9RnS1bJcde78AXHJ5M8tbrsm+pYKwzV82wL8YXo5tmeLG1YSiPzPg1G3otsm2dcd/ED9QIVqP2EJqYNEF7mj5Z0WDOoKm959dDtdCr8wJrOH7mn+oT6SZ1Qxfn5EREGNxcW33oiR4aLT8/I5lypMT1A/3hsLQBAxbyjT+k/SplF5hKGwiSR0zcGzwevFgtztRsATEyTmuLCXOCMPocP8U7y33wmdC6erjrm2mRUKuXgEDi7ghkUi+FeJmg76wTr9UR68ScuqtTg8LeHsbBnVXsi4vHKWf2G3KHUh8o3bkka+I3pwnONR9G61QYpKX0PZSq40OzlsYTSUq2XpAwUQoMHCdLUngHUdu9y7jReX0CnP4uk2Mx8hb6c+m6z2Rf40OJ/kKGNIcBbTyonQJ7gCUEGmQGRWa4Pr+s6DTXHPOqzR5rrIei145E/RAgsBc0O4VFiGlYArxCLVdXeICWPpqE2MwSfcjI41m1DK5nG9Zc6mjgKyiCeh5hoDo121zmrzbE5UK0ANMyTvJBY8tOUkjR3CGxeTytPHY4dxTbiyIFfLlFpcHvwOpD+gjHQEaUvN+s889f8YQHkgHKOa2xsafMsCReH8HAqp5smMlhvBNSckN/YqmOe7geG84cPWsCvpUJk2CFRKRdSmuhS2pwEyvhEmrJ4O9eOLPeuL009hhEll+IYkWrltoc8MC+LW2rUPDqgenARwFWunuAEgPxZQsTnYBd0EnKKVHglcuyYy5EKRRoajEqHHSm6Pg3J1Jm1AW3Z215G6k5aZEBKiS5uDEfZqHd1xkq9MAO+H8+KX9HGAoOfT72R1WrkLqSmklVqhi/9GiR+JKb3x/67EDK9rYtRjy1/PU8Ip9AQ6d3kG1TaHsONJTYHhfVJYk5KLDSfEP8p3NyszmKzkgODddw3xcVpfwX66TAKLfnxkPfxQZsqKAkAS/wGQpLr1TkQD53dAKcC2U5OiHHnSZUFoTtbWyQGtL80qCIDRNxitPWfR/A+ajlv7t5SPqRGtwuGRVySlwgSkG/YXhCWPLaC1Dkwn+vwn7TG8DsS85gUpV51R4ZDfuYXESbb+8BLsEjHsbWpHyWEBrx4GA4a8pO96CwlSQIkb2ySUUIX7a8Hf04Jo7pevNkHWLNMeRIbgTWVCjLVWoCasKYOGNNnMP+Kj6ZWlCLf7iCEfKIgwOObYnui+CldjzpsdHqSfny4tSHQdA/ZQU/czvnJsph+EDYRATp/p/zEvILQrfF1sqHYlA5r2KkOqBtCgbgsG/dPkQqHXHrmeB1d9LivcKQ/6PPoC8x7GCAVGdf9SHz5Kd01shTBfgkNCI5TkBm+KSPuWmeRwpEouL9nWk4mNW1ECTTLID6c88P5HV7ixCGUHaP3cpin8EOHdLlFVHOmeMMJbnyewo4qKIgc7YLfc4e80Q1KssVAfefwD+umw/12D6YgKFFgC4t95pLn4VEzXHI7pafn3h8rUgKmMxSs054Wp4Kl8cYGliUCZakaM5ErMJj6hm0Hfeg6ahI8cCGXJWhb7eEbV3m7DxxSg23L+cOx2en08HwwIqafcbq7ywtYVVzDIeEGCofI0rNzbyfSvYrRDwy58LSBCx7GhMFdiN6h1MKCABK/pWpViM1wN8GtByJuS7L4zvoAsPW1CktuwzejPFTtg7Vv0PwPxjOWMvo45CnD+Ps8ve0Ob/ttavcy/YTb4TBsnndjUtSW2XxhpTJTbHep+WvCsa6KYft+kJbhg8aYgWwsIfepG2TshKWRcNic/JqRAQLdh9YzW6cOgrJYe6PCFp1EaYMdfQMiTRpyfqcl3BLafm40gY+j0KTWhxou6pKzel2TukyX2dDgJAxf69g9kzLEl+zK9mkPLLZ7q84ny3mKfD0g1WI5tPDbkQrpI71x1PcUZZ0Ls3UvPIFL4LwU=
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 2688609090494922608
+    type : 2
+    generation_name : WW_Etat.wdl
+    version : {}
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4d6fb643000339e0
+  elements :
+   -
+     name : PAGE_Principale
+     identifier : 0x4d6fbf8a001774a8
+     internal_properties : CAAAAAgAAABi+SHb2rux7JDuuDmw2x5hpSEII9ZQ1f3mh7woAMO9Xa0a8IvczZ7iyeklKslGZuIbNtqF5Bz8ip7RRRHYKv7Zgmrg
+     physical_name : .\PAGE_Principale.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : REQ_SELECT_COMMANDE
+     identifier : 0x4d70b92100156afd
+     internal_properties : CAAAAAgAAABFN3MfmOVd6uhmRUEizstjrOMeJrMWaX2Q+oTD8VViXBmg8hGHtLX4UDBrFD/bZE/A
+     physical_name : .\REQ_SELECT_COMMANDE.WDR
+     type : 5
+   -
+     name : ETAT_Totaux_bas_page
+     identifier : 0x4d70b8f80013ca97
+     internal_properties : CAAAAAgAAACppZH1Mm9HaJhlybkk2lgP697qIqaCjTBCbrC2vVLAWKQIbV3Lfbv9HQr0zFSMdGSstA==
+     physical_name : .\ETAT_Totaux_bas_page.wde
+     type : 3
+   -
+     name : ProcéduresServeur
+     identifier : 0x4d70b7740011e07d
+     internal_properties : CAAAAAgAAACEguzI96wEJ0Uywa6nIzXseh1J6d64fqOF+4FmDhKCrkrgmTfFe0kGascxjxfJsSeRkQ==
+     physical_name : .\ProcéduresServeur.wdg
+     type : 7
+   -
+     name : Etat_DataBinding
+     identifier : 0x4d70b736000fefa5
+     internal_properties : CAAAAAgAAAAAfnikA3gwa5lmNcTb1XgAsjexoRclgh5KxEj/RMtJl1WJPKN/ub36Hgv1w0O9RbsFDQ==
+     physical_name : .\Etat_DataBinding.wde
+     type : 3
+   -
+     name : ETAT_Facture_classique
+     identifier : 0x4d727e9f0013e1cd
+     internal_properties : CAAAAAgAAAB/21dLeCWNnvJtnbpWJBdxA7bSui76D8V2IYjeZbpYsFyAs75S7sH5EzCqFp5SLqJq6g==
+     physical_name : .\ETAT_Facture_classique.wde
+     type : 3
+   -
+     name : ETAT_Planning
+     identifier : 0x4d727ebb00154e91
+     internal_properties : CAAAAAgAAABm7E5SUQ4myTvGerdnZ8skOnnh+cr8QwJZygfYDPSgqADyQxvl2yBWvGlTrXVrF4lz8w==
+     physical_name : .\ETAT_Planning.wde
+     type : 3
+   -
+     name : Etat_Portrait
+     identifier : 0x4d727ebb00174f1d
+     internal_properties : CAAAAAgAAABAPrjkw7jwK1k4WBGxkzaSRNVT+04gk8advQDfmXelI+01JDvbLX40Xss1gwP9hXtFzQ==
+     physical_name : .\Etat_Portrait.wde
+     type : 3
+   -
+     name : Etat_Affaire
+     identifier : 0x4d727ebb00194fba
+     internal_properties : CAAAAAgAAACppZH1Mm9HaJhnm9Dw5MMUJ1DyEqGz0dC9xeT76yXxz32j2XacbL/3HQr0zFSMdGSstA==
+     physical_name : .\EtatAffaire.wde
+     type : 3
+   -
+     name : Etat_Graphe
+     identifier : 0x4d727ebb001b5085
+     internal_properties : CAAAAAgAAAAQ7khUUwggOymIKMHBFyvWPLPLkys5RYe2UeFuaYaWYppUUY+Lfc6E7ltFs3NtFYt1/Q==
+     physical_name : .\EtatGraphe.wde
+     type : 3
+   -
+     name : Etat_GrapheInterne
+     identifier : 0x4d727ebc001d5150
+     internal_properties : CAAAAAgAAADBvTltWgcvwNCPM/EoWGNI7bzUDOmOcWaRbhrPqrJY2Hj4etdbpeef9VJMtHx0DPzETA==
+     physical_name : .\EtatGrapheInterne.wde
+     type : 3
+   -
+     name : Etat_Interne
+     identifier : 0x4d727ebc001f525a
+     internal_properties : CAAAAAgAAACZ9UFFYt9XWIhXS2mw0uTWMW5UBBdJBGateVSD9xmFk21n8VHTLW8nTfrk3KRcJJR8hA==
+     physical_name : .\EtatInterne.wde
+     type : 3
+   -
+     name : ETAT_BonCommande_classique
+     identifier : 0x4d727ebc002353d1
+     internal_properties : CAAAAAgAAACutIaaKVbekeOegiDPTc6qZCtzW2oghImqcMFyEPamYup0XfY8hLjuBCGbZS2jX1G7uw==
+     physical_name : .\ETAT_BonCommande_classique.wde
+     type : 3
+   -
+     name : ETAT_ClientCommande
+     identifier : 0x4d727ebd002554f9
+     internal_properties : CAAAAAgAAACW/P4igf62uas2qkmn97lABgVdxeU5vBd2JUQSN+i0HJRuT4WjHVAGbNnDPcU7xzmDgw==
+     physical_name : .\ETAT_ClientCommande.wde
+     type : 3
+   -
+     name : ETAT_COMPOSITE_INTEGRE
+     identifier : 0x4d727ebd002755e4
+     internal_properties : CAAAAAgAAACHg+8z8K0FJlolRWCOAIv4ierUtIvVJBKlr94Bca/vCfflHbh8RHkxW8gyjhbKtiqSkg==
+     physical_name : .\ETAT_COMPOSITE_INTEGRE.wde
+     type : 3
+   -
+     name : ETAT_COMPOSITE_SIMPLE
+     identifier : 0x4d727ebd00295680
+     internal_properties : CAAAAAgAAAA9GRUJtuPL1DSjx+YMuBaOSz6aEpeZFEqZfkOcWqZsXFCskjT2wvuz2XZgWNgI8OAoKA==
+     physical_name : .\ETAT_COMPOSITE_SIMPLE.wde
+     type : 3
+   -
+     name : Etat_DataBinding_DeuxColonnes
+     identifier : 0x4d727ebd002b572c
+     internal_properties : CAAAAAgAAADva8fb6JWdTqJdTWiG3HUE+ZbM7F4sVAyKfPQLrmG9a4Wf82TEPHEpQ+DaJu7inhL6eg==
+     physical_name : .\Etat_DataBinding_DeuxColonnes.wde
+     type : 3
+   -
+     name : ETAT_Etiquettes
+     identifier : 0x4d727ebd002d57d8
+     internal_properties : CAAAAAgAAACV8f0hnvuz7Ayr354UhH/Gl8BiYlFjqSpBAIQb6wWRT/0D91DuygO70X54QMAwyDiAgA==
+     physical_name : .\ETAT_Etiquettes.wde
+     type : 3
+   -
+     name : ETAT_FicheProduit
+     identifier : 0x4d727ebe002f58a3
+     internal_properties : CAAAAAgAAAAMCmSwjzR8r81snNjVT9FuzoOtHbNX0dKOXzFtxHuRR/0RUvY0jML4Ej+5B49BOa8ZGQ==
+     physical_name : .\ETAT_FicheProduit.wde
+     type : 3
+   -
+     name : Etat_Imbriqué
+     identifier : 0x4d727ebe0031595e
+     internal_properties : CAAAAAgAAAAKAHIWldJaBRfCZoZjbzSTUvOZwfZXEFqpZFuEUfmTlbe/vxoW4hxSuJUP6akn08UPFw==
+     physical_name : .\Etat_Imbriqué.wde
+     type : 3
+   -
+     name : Etat_Paysage
+     identifier : 0x4d727ebe00335a2a
+     internal_properties : CAAAAAgAAABcOrTg34Ssv108rEil87uBEFPfx3Se39S5Umt8lIyAYKQKYIqkHFIIYs/JN//xiX9JyQ==
+     physical_name : .\Etat_Paysage.wde
+     type : 3
+   -
+     name : REQ_Client_Commande
+     identifier : 0x4d727edd0037d257
+     internal_properties : CAAAAAgAAAALB3MXlNFZAhbBcVzq7DQjw6yOrqwfMcRKSGbYImWpD/XbfsRwiCVdt5QO6qom0sYOFg==
+     physical_name : .\REQ_Client_Commande.WDR
+     type : 5
+   -
+     name : REQ_SELECT_BONCOMMANDE
+     identifier : 0x4d727edd0039d2b5
+     internal_properties : CAAAAAgAAAB00lxYZ9xUV7UkRAcNCQ36FAczu44UeqxOj/fEJpCEVOgmb+NV43owWvfh36dZIZdh4Q==
+     physical_name : .\REQ_SELECT_BONCOMMANDE.WDR
+     type : 5
+   -
+     name : REQ_SELECT_PRODUIT
+     identifier : 0x4d727edd003bd332
+     internal_properties : CAAAAAgAAACIhvCsG0Do8wHwYKOZ17J/MgVRUdQvtW+idgDD0Kbu4tY0woHJdxZMpoN9ezu1TUONlQ==
+     physical_name : .\REQ_SELECT_PRODUIT.WDR
+     type : 5
+   -
+     name : REQ_CALCUL
+     identifier : 0x4d727edd003dd390
+     internal_properties : CAAAAAgAAACc+vQgn8Rsfx38bK/lxarlThG9vRJaGoqugy3EzqLqbpKY1I+9exJIoo8J978xyT+JiQ==
+     physical_name : .\REQ_CALCUL.WDR
+     type : 5
+   -
+     name : REQ_CATEGORIE
+     identifier : 0x4d727edd003fd40d
+     internal_properties : CAAAAAgAAAC9mZWJNmNLVLQjRwYMXtALBVYQMAeHJVpKZNbTfRMDPctR+upW4nszWfbg2FiIcGCoqA==
+     physical_name : .\REQ_CATEGORIE.WDR
+     type : 5
+   -
+     name : Etat_Requête
+     identifier : 0x4db19da70029711d
+     internal_properties : CAAAAAgAAADxTSl9yve/8AA+mJraHscBA1YSOp/Z9R5Z6v/gtkrIAAwQM85Y4AeWpYJ8RMwE/OzUXA==
+     physical_name : .\EtatRequete.wde
+     type : 3
+   -
+     name : REQ_SELECT_PRODUIT_PRIX
+     identifier : 0x4db19db3002b9faf
+     internal_properties : CAAAAAgAAAB716PnxIGpssbwRiCUoiPB3bwk/Fur2Ht2KTqGeA6MdEykzdJqnsXU50S+Ovr2gnZe5g==
+     physical_name : .\REQ_SELECT_PRODUIT_PRIX.WDR
+     type : 5
+   -
+     name : Etat_TableMémoire
+     identifier : 0x4db1a1ec002a1e85
+     internal_properties : CAAAAAgAAAB10V1BfttTDGwKqCMuwwrnMaLcnBNNGKhZSkZREf8f6QfF3jALNQeisZ4Y4KBQKJhg4A==
+     physical_name : .\EtatTableMemoire.wde
+     type : 3
+  other_elements : []
+  analysis : .\WD Etats.ana\WD Etats.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ wb_skin : 240 Material Design 2
+ wb_color_palette : Material Blue 2
+ languages :
+  - fr-FR
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_Principale
+     parameters : []
+     title :
+      fr-FR : Principale
+     description :
+      fr-FR : Principale
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      // ======================================================
+      // Variables utilisées pour l'exemple d'état par DataBinding
+      // Structure d'un produit
+      stProduit est une structure
+      	ImageProduit	est une chaine
+      	NomProduit		est une chaine
+      	Prix est un entier
+      FIN
+      
+      ETypeImpression est une énumération
+      	Impression_PDF = 1
+      	Impression_HTML = 2
+      fin
+      
+      // Liste des produits
+      gTabListeProduits	est un tableau de STProduit
+      
+      // Génération de données 
+      RemplirDonnéesDataBinding()
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x4d6fb643000439e0
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

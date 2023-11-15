@@ -1,0 +1,113 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Etat_Portrait
+ major_version : 28
+ minor_version : 0
+ type : 3
+ description : ""
+ subtype : 0
+report :
+ identifier : 0x5761719d03d469f7
+ internal_properties : CAAAAAgAAACtyiTiOOWCDWSNZenhyjG4Tuy4dGtiC0XizkQHlT6CpeDeKWGSJ2Z2SBBwqN1y6ugt8STsuEuLZO2VFjqE7+ZlL2CtoQUtfIskLe1Q2tmNbSBxnZpcgIHChT28E9AKfgCkiqgKZv/4OBfeTOuG9Q+ti8u5w72mGspM7IUdpzKvZxB/pfa2ehHb/hk14fuBw6I026v3DgAE2giKa1mpIPuNnF6tdH7faLG76y1MGCVZ7UNChS/lBk8gy5GMZQ4Ckuf3XpDJebl7I7HIZ2SJKdB/HkB8DnCc7uunqfLsyvx2w9a2Ww1TEVGyh6uIi4xIyuIBe3z6vEgEd1cT+xDp5E1i2e+lsGUX9mFWynKw0UB5tkjGdKp2WDxUgp/J5gRl35R8BfM3SQWQB3x8XUPBgVGAWpDICpnD9WqWl5MtWCUvQD+/tR8oeOgYGiUJP4W4zvamJfMKvrUMqnjPfAI9/ZsnnsCOShhligH1qanAX05oif34XgbTI8Fx+GaZMqLa/CkBnP6fLGO7SIxe8DIDSpRRrCejSWnvVTMdFrQ1RjHdAINauaVPAyfs6uafLf4AvodCaT+hD6Hft0GoIOA/R2Br8Fnlzc4vp8R5GRT2wd+wA+r547jAn2d991ZA2E/VA9OSbo/TeWcyq7dmrnLd6fr8rTJeJQrCwSQQ1wPX0d9TRZQot/4hoMNse4rKN5RzuAhpXSYuF1ilLfgzOMOpqqV0e3jSfmR2JJfZrSYivaDEYP6h5eOBgvkLj/uCqgvQXYfMK/1SPR6zQYosRhfBBNQP9ZRlvl7lNMbdSLVD+MJjddcgXoMJH8cfx2Eg2yZQgbZpPCZKeUaMnQ==
+ languages :
+  - fr-FR
+ blocks :
+  -
+    name : DEBUT_DOCUMENT
+    identifier : 0x5761719d03d569f7
+    internal_properties : CAAAAAgAAAC+ZEUmRXiUTs2U5XQR0VlOh7MeTsIxFvRc5v0LKjhUWTUimnXYfxD1l7ZGwE5qdZ6nmMUuSzudXLQEvx0/HpSKnJ2xNc7nIzgYdjIpv3Nn8LHRh11LwG67XBoUnAHohELjV/0pjC40z38opd5o7hTgdcsGbruATJ8o+VQJbYpJ88npdRv2OLuX0NR7F4pl3g/+QBrLuAq2btvdXMKKvJNznA49EeOJPKEZwfO5eRRsjdLF0WWDnzfRo9KVEYtRZ1Yunt1yUV9TSGPvstKJV3Hy
+    properties :
+     width : 170.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+  -
+    name : HAUT_DE_PAGE
+    identifier : 0x5761719d03d669f7
+    internal_properties : CAAAAAgAAABclaHRBFOpovwDXAXXv7+ZkBrpdxMiJL7hCDUno1xJbkKLRM/TxqSDkliFlrYLmT9NOUUO2GyIBHMc4hYKAGn2Wgd6fIc0lkXGNXFCvGpmbJDlE5mzTJwN0gznhH2PNNAx4Vm0kY+ctcIHxkytQG9CoZw2WNDEkQrdRny2PiNy91Ie40sT38RLTYss2h6aD/LFa+RJ92fwDkhYP0djtDorSCRCOBL4QYoffjTkkeEwavk4Ytq0SND1H2IzY6hy2O4uQwkIiXr57Lop/7bf2A==
+    properties :
+     y : 10.
+     width : 170.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+  -
+    name : CORPS
+    identifier : 0x5761719d03d76a07
+    internal_properties : CAAAAAgAAADHwW3XnRtlHq+jMpqurGCTmwbGa0GfC1P/990LICBesIffny4o/zyZRFoHXGYRnXLAriZoUI0VVvte78G+hhEdGg3YBZWNnyP5hXkTDrdRbb4IFVjuU05yE2bO0EGDrpfK4w32QZdgJ0D+pjMNL/jjDHhafdrkUfzRgw5bm4m3+zG0Ffc0TkqIz2Rk76JE4OsjMFEq8xVOyegXNScUsU4y0piDMDDPIUDc9f61O4Vh46DAnpwdJGCc1QMwkdct6tFC
+    controls :
+     -
+       name : LIBELLE1
+       identifier : 0x576171a503da87a4
+       internal_properties : CAAAAAgAAAB5OSEiX/hc3pgVo1Cutz4RTqqPrDMckht/RsWCu1WD6hM3EjEDvetIW+8QKPTJsjgRii/B0UvNH8LWkGs9je+irlzQDWvcGAZhha3nFa+lT9caNj6lIOzf8sWK6YzELH3q0/dbQmZvfnIdwFEVdhprvyNJjkcleZROdPQpYvX1ah5nXwzl2MUnmzGRbHZuCUxEE2Q8rVz/oZWaorpm9koZ88ONdAEUbMJwRGCUdfSBj9Al6lIlWIbajDN2RM8dd7+lP4T23Vc+70irH+fruPs8B7zfz6U0MBEaNatnceb2DtVzRqJO5ps7SJSlvCwq+D9DrAfB+eK4VG4gcp+Lt4c67bgqSz5Ka/xjvFdXJBbWxP3iOgUst52i8diA59RIfadwPvoOOkC1APP/L/nfPEFoLuAnmPCsw68ffcwbqM+OuXPPy/Bdc1ZPr9bPOQ5YDuxWSYQL0GtNpINH3ybBitR2nTX+30IISrdk076ryokis59JBMnJjKDKOgb8ps8EvqRJR3FReCbTXj3dvp5iL1MEQsyJFVNfUBerecKAXZKcr7jnC0qdxUI=
+       properties :
+        width : 169.706
+        height : 106.627
+       code_elements :
+        type_code : 29
+        p_codes : []
+    properties :
+     y : 20.
+     width : 170.
+     height : 106.627
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+  -
+    name : BAS_DE_PAGE
+    identifier : 0x5761719d03d86a07
+    internal_properties : CAAAAAgAAACLF6yVpMYSqUxqdIJCZtGNxZmdVOoN4OGO9/ZgnN8qAYNBX6JWWHckYu7rP6rjKYPICmMUoPb/E1ARMIpMN8IWrXzoPQVvWjh38oIIEHiBIgB9Tf1EEus1bbRXrbXPYvdSGmZO+TGUU5uP2oXTSi4FBRdFpCrPMdBw3/p3Giq5Pvda1geFcLr7GW9oud+tZyH7R/ItkrROixWw8IDAYXp4GUhy3Q57ifYKH4DwiwnrH+W99I6WgGGddOh8CXDuE8jFzZdH4Z5twr58iA==
+    properties :
+     y : 126.627
+     width : 170.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        code : |1-
+         
+         iImprimeEtat(Etat_Paysage)
+        type : 327693
+      -
+        type : 327697
+        enabled : false
+  -
+    name : FIN_DOCUMENT
+    identifier : 0x5761719d03d96a07
+    internal_properties : CAAAAAgAAACVI52hXtabXqgt1vTpqycwcNY7K69H2um6wNpMcsfMW6Yl10Gg9riN0kPOfRH+Gc9pI2QCwezdnktJDtz1tp7yFdODXlKsiGlKOREhMk6eJyHKyprgQltMzcH6cYmiOz8s9jQNN7vCiUFpubvfBl5gkP+3LDSc8BjOolk7hMiy5AY+6WqweuqOWi3faZ7yuMtfoYjICB74y/jDaWtAxaLgPs53fRP3dY3RGVzY0/c94gD7y4UzyIvDht56HJEaG1i/gFyDrayXKVqTqNIG
+    properties :
+     y : 136.627
+     width : 170.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+ controls : []
+ code_elements :
+  type_code : 13
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Etat1
+resources :
+ string_res :
+  identifier : 0x10f6dfc50f3a4c71
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

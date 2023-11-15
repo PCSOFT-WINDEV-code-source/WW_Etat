@@ -1,0 +1,47 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : ETAT_COMPOSITE_INTEGRE
+ major_version : 28
+ minor_version : 0
+ type : 3
+ description : ""
+ subtype : 0
+report :
+ identifier : 0x5604feba1d85296b
+ internal_properties : CAAAAAgAAADMI4ErqXwnYGNJmBwM+QuOZvyL1jWJbAh6z1HE8NcHhi0/9iqND4P0IYUH4LDuImNciF6fkBuoUlSUUEzTKmvDhpJexTE/mmX5P78I9JAVkiPtC/SHZi5I1nrvIZsaXm2Uy8MhEMmWrCTZ180Kd0ca9ZccMqeK6phKE45ZuBEjrEcU2xgDJLoWTfeeZnUbYcyqzFzohxUuCVikCCfk3xOsDY0lIsFDWQe13u0Rzq+ZQHbrCI3Xd2HOqBqviKI1JiHYAd7VNCon3tAc5zjhxSVsf5QM1jFQRu+8vTAJTqUw/BtDASsJxIsxTcXDuGQXi+7H2GOzeSR5TEza2ABePT9fFwzugnYv6ggPt3mMPp/ovqUIABQ+ClKNkK2GXVWrjifkw0AkJn632TjqHZ2Mq66ez/Zvy7Bb0Ez8uJmm7iTeVGTWDaSP4bmo8vtMqSzteODujElaVxAvtjpBSdMQUiCCQRE6YpGQpx7YUWMsKHp8eQgC+CgJ5C9YL03qpNo3MHFatwOid8mHlXqkMFufmz5h9L/UzJi1Z0G52+EC/Ga7+kvURsoUPhABdxHOucUL+3Py8lYDzLZiIW3VOE7UgZAvpi/n6LftiDtIoFB8w/zoel8wkKlXi32N81ljIuacV+bRYCOF07RlNp5PGePREspMT60BMUfRpqZ++TODCEgNsCGZyJBI7Ke25QJEpkzGDkDJH37rTJFa3jRWwcteit7W4ui6JrwQ5b/om6aWXeFAr0YnIe6wHFmMNM6x0IlSEp952qK4knuo0ZNjDpqnd791nN6tmTNyNDLv6YbPnD/Du3VlzLttHTYr5AI5R57psFvekE4R281T5q2flBUP41z8+KfvZkJBLQrmleVSNX6CZvxk8BV0aNYtg8hIt/ZXAKe9ykKfRuqdlzJ2uUBuLxOdoXH18O/JLV50LBj9mvDkrnzGT3QAjL6TpuRARehu3toQlvY85cDBttOJOY9cQQlY3gh1Fc/ZFxWG66Kbu9lOoqJCjXG0YtKimpPokKo6XFMrSuHrsjTR51Q0eVZkw/U33LrKeU6ac0Ie40+3V+FcxUBzQViHfVkFmD5x9k+aPguzQrZMFs1hn2+bsPr1zYuv/Jl2bOb2j9NFkwz5bUlYAnYNx0DwM6AHGPyo9CsWKLgQ4l5eTocfgECUp+pt86spRYHKUFzdPN1w64FqGBCIac0ZuPo+wdXSV4ai90nogUVHJIIXA9PIQRQiJTB4oR9uA3cVvNQsgF2aWIxq8LIDBBDjk1p03VfNU0lMnrfQZkdbTprJ35bmMh+1LdtVuBL/cKwi/d9SCUEsfui88z6hEHH5i0W3bB99irViuzv3tqhPu2KCAXQmK5dQCJEzt+s9jtkEw+TTHgSUxU0=
+ languages :
+  - fr-FR
+ subreports :
+  -
+    name : SETAT_DataBinding
+    identifier : 0x5604feba1d88296b
+    internal_properties : CAAAAAgAAAAXNYpqjF2gc4ZVc/i7druf3tREt/MAmtg2O1bHCN+XomkGRFoBa/9yRYJ9uc3gMiJWTa2H9eY9HXsLnUptjNSAq+jBGqy41D3W1CFQQOCGYwc1rA4pzPvDZpW3igc6Qmd9GElS9m7egAShhjydFK3i8LMtqprC+9++CzLgtCLTaCVHcNZMM+YAVNKk+yMc+HY9Kf0dAH51SvFe6yGZ0KfI53Pd/Afn3JPqVtoKSp8kZChYboUX0/5Ab9U03lk1rmd2G0k8eRuBsO08Qx5sL6yIiYvQ3uRdJjiMUvlgQEmJNDK2nd528tYwYJGCCXH97Kya/0KMpA0x4gWOepNwCy039Kv1KohRNECXCxQirDe4ePNCjLzXnE8k40mbiqf1o67xL33jvJhzJnws7EmQhscwXAfEt74HdfVYb28iB7e+41f5/Ubjqgy6geOuxFW2u3JC5zsa02XkHs+7dFi56sdDslnJtfs/VaaK/qwYjfC09zD1du7gjKJBYNoftKtkkGgNe3MSwWPNjZUB64m+d1NXv5gV1Ks+5ybfkwk0I8uBSDR0rhsSvBBSxef/YaBFDjHhF8RdBVZPafDfz/7VdoDt0TZ+TmF6gDKST9flYDardQrjJVN+yVdaofg9ZyvlEP1H6YmuI+WaMDSgnTsndU/CyxLAq/khd6933K53sV4B+AIjOBPTDJBbZdZQXmhB6R3ZJ+SpV1SFqTnFuDBSbnq62SbXZJDGkuXZjfpGbZVkLjWOaGVtZJsW/WnlIb+869zoYLrHhYLN9CYvOp6LQHdgcxgU
+    code_elements :
+     type_code : 13
+     p_codes : []
+  -
+    name : SETAT_FichierTexteAuto
+    identifier : 0x5604feba1d8d296b
+    internal_properties : CAAAAAgAAADJS25tscCkH8xVDPk8Leyl0A80nLmKFRP4hM1FGqQPinjAHdRGctAKIuJjgJSWCM8Rs8QQ4fIO7i1tzFHmmoYIRzQUC4wpF5nawce5UXK/zJ3ShP9DAJtmkG1JLMTil38JBG9sNt65Ywmxg+YaQedKx4WqY3Z1/2ewYtEBHox7OHmfN75JiF5ZioAtcllQ6h8G+dVuBI6crTUGeibsBDCA/meIwyq9V6hVuTTxFJBnL6PNeA0VEp3QyWk6MWyQLAwzb7ZAuAxLp/lvpGeBUep9cHQ0PZg5oFD4i4Jtcbl4iXYLUo/tF9tJ43oYoYJAdycjHdUxqU/9NjxmeNft7ClkkPjCro0qIh4ol01lZES04Lnya5WyIWmpyvMK2e+qc5+bo8y2D20nptHl+C9W3Bab3zDme1nqwnyPtgG5yFgjPnsTLDrNNTZbTaF96oH3odHhEWo5pgTybiJS6bxjRbPNkE6Ryo5mUyJ7HVlaW3l2o4443yIOpf5h66YehQx3Ne/nFxZaHzSLV5AXtHv3w9mGKC6dYN/QJleQKlkheExecVdHsLfsILcfjvKZiNd+sJOfoYvBdYLA0K37UD0t8UOGSlqV7sm9LYhS1eC9UMlrs0yeihEhS8od2BQLOAYBUu5wOjibHh20/a6YveIhAiLlOWsN2kPdDPZNH9Zk18I8
+    code_elements :
+     type_code : 13
+     p_codes : []
+ code_elements :
+  type_code : 13
+  p_codes :
+   -
+     type : 327695
+     enabled : false
+   -
+     type : 327696
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : ETAT_SansNom1
+resources :
+ string_res :
+  identifier : 0x10f6dfc50f464da9
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
